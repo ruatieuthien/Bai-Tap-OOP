@@ -1,0 +1,9 @@
+Ten sinh vien : LeTuanAnh
+Ma sinh vien : 123456789
+ Nam Sinh: 1997
+ Tuoi cua ban: 24
+ Diem toan = 9
+ Diem Van = 9
+ Diem Anh = 9
+ Diem trung binh = 9
+Xep loai : A
